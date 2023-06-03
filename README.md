@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Gusti
 
 I am currently working on [Clear the Bench]([https://github.com/theloosygoose/clear-the-bench]), built with Rust & Tauri.
-📫 Reach me at my email: [theloosygoose1@gmail.com]
+<br>
+📫 Reach me at my email: theloosygoose1@gmail.com
 
 
 <!--
