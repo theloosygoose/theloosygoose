@@ -7,6 +7,8 @@
 📍 Based in Philadelphia
 <br>
 Putting my mental health into the hands of the Sixers, Phillies and Eagles
+<br>
+💬[This](https://github.com/theloosygoose/nvim-config) is my neovim config
 
 
 <!--
