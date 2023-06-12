@@ -1,5 +1,5 @@
 # Hello 👋 I'm Gusti Henry
-![Fish- Boy](https://imgflip.com/gif/7p4s5d) "Fish Boy"
+![Fish-Boy](me_fr.gif)
 
 ### Working on [Clear the Bench](https://github.com/theloosygoose/clear-the-bench), built with Rust & Tauri.
 #### Reach me at my email: theloosygoose1@gmail.com
