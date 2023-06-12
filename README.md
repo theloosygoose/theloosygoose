@@ -1,14 +1,12 @@
-### Hi there 👋 I'm Gusti
+## Hi there 👋 I'm Gusti (he/him)
 
 🏀 I am currently working on [Clear the Bench](https://github.com/theloosygoose/clear-the-bench), built with Rust & Tauri.
 <br>
 📫 Reach me at my email: theloosygoose1@gmail.com
 <br>
-📍 Based in Philadelphia
+📍 Based in Pennsylvania
 <br>
-Putting my mental health into the hands of the Sixers, Phillies and Eagles
-<br>
-💬[This](https://github.com/theloosygoose/nvim-config) is my neovim config
+💬 [This](https://github.com/theloosygoose/nvim-config) is my neovim config
 
 
 <!--
