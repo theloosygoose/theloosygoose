@@ -7,7 +7,7 @@
 #### I Listen to 🎵 [Music](https://open.spotify.com/user/gustihenry?si=f44accdc3274464a)
 #### [My NeoVim Config](https://github.com/theloosygoose/nvim-config)
 
-#### I Code :
+#### I Code always:
 - Svelte
 - Rust
 - Python
