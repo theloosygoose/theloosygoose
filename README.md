@@ -1,4 +1,4 @@
-# Hello 👋 I'm Gusti Henry
+# Hello 👋 
 ![Fish-Boy](me_fr.gif)
 
 Currently working with Godot
