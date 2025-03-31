@@ -1,5 +1,5 @@
 # Hello 👋 
-![Fish-Boy](me_fr.gif)
+My name is Gusti Rama Henry and I am interested in Data Science and Graphic Design
 
 Working in Godot atm
 
